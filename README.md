@@ -15,9 +15,9 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 ---
 
 ## 📱 Yayınlanan Mobil Uygulama Platformları :
-- **App Store**:  (https://www.logo.wine/a/logo/Google_Play/Google_Play-Logo.wine.svg)  
-- **Google Play**: (https://www.logo.wine/a/logo/App_Store_(iOS)/App_Store_(iOS)-Logo.wine.svg)
-- **AppGallery**: (https://seeklogo.com/images/H/huawei-appgallery-logo-A801F4AE11-seeklogo.com.png)
+- **App Store**:  ![Appstore](https://www.logo.wine/a/logo/Google_Play/Google_Play-Logo.wine.svg)  
+- **Google Play**: ![GooglePlay](https://www.logo.wine/a/logo/App_Store_(iOS)/App_Store_(iOS)-Logo.wine.svg)
+- **AppGallery**: ![AppGallery](https://seeklogo.com/images/H/huawei-appgallery-logo-A801F4AE11-seeklogo.com.png)
 
 ---
 
@@ -39,5 +39,5 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 
 ## 🤝 Beni Takip Edin:
 - **LinkedIn**: [Enes Bayri](https://www.linkedin.com/in/enes-bayri-8121282a3/)
-- **Instagram**: [Enes Bayri]((https://www.instagram.com/eness_bayrii/))
+- **Instagram**: [Enes Bayri](https://www.instagram.com/eness_bayrii/)
 
