@@ -22,23 +22,22 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 ---
 
 ## 🌟 Öne Çıkan Projelerim:
-- **Yakıt Asistan App**: Flutter ile geliştirdiğim ve platformlara yayınladığım araç,seyahat takip ve hesaplama araçları asistanı. [Repo]((https://github.com/enesbayri/yakit-asistan-APP))
+- **Yakıt Asistan App**: Flutter ile geliştirdiğim ve platformlara yayınladığım araç,seyahat takip ve hesaplama araçları asistanı. [Repo](https://github.com/enesbayri/yakit-asistan-APP)
 - **QR Creator App**: Flutter ile geliştirdiğim QR oluşturucu. [Repo](https://github.com/enesbayri/QR_CREATOR-APP)
 - **RemoveBG App**: Flutter ile geliştirdiğim görsel arkaplan kaldırma uygulaması. [Repo](https://github.com/enesbayri/RemoveBG_app)
 - **Dices App**: Flutter ile geliştirdiğim hileli zar oyunu. [Repo](https://github.com/enesbayri/Dices-APP)
-- **Ebaysoft AI**: NODEJS ile geliştirdiğim yapay zeka chat uygulaması. [Repo]((https://github.com/enesbayri/EBAYSOFT-AI))
+- **Ebaysoft AI**: NODEJS ile geliştirdiğim yapay zeka chat uygulaması. [Repo](https://github.com/enesbayri/EBAYSOFT-AI)
 - **Yakıt Asistan API**: NodeJS ile Geliştirdiğim Kullanıcı/admin panelli,key kontrollü,WebScap ile veri çekme işlemli API servis. [Repo](https://github.com/enesbayri/YakitAsisstant-API)
 - **Ölcek Hesapla App**: Flutter ile geliştirdiğim ve platformlara yayınladığım ölçek/ölçü hesaplama uygulaması. [Repo](https://github.com/enesbayri/olcek-hesapla-APP)
-- **Muhasebe Otomasyonu**: Laravel kullanarak ekip ile geliştirdiğimiz muhasebe otomasyon sistemi. [Repo]((https://github.com/mertozanlislas/emo-laravel9))
+- **Muhasebe Otomasyonu**: Laravel kullanarak ekip ile geliştirdiğimiz muhasebe otomasyon sistemi. [Repo](https://github.com/mertozanlislas/emo-laravel9)
 - **Daha Fazlası...**: Bu ve diğer teknolojiler kullanarak geliştirdiğim diğer uygulamalar... [Repo](https://github.com/enesbayri?tab=repositories)
 
 ---
 
 ## 📊 GitHub İstatistikleri:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesbayri&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesbayri&layout=compact&theme=radical)
 
 ## 🤝 Beni Takip Edin:
-- **LinkedIn**: [LinkedIn Profilin](https://www.linkedin.com/in/enes-bayri-8121282a3/)
-- **Instagram**: [Instagram Profilin]([#](https://www.instagram.com/eness_bayrii/))
+- **LinkedIn**: [Enes Bayri](https://www.linkedin.com/in/enes-bayri-8121282a3/)
+- **Instagram**: [Enes Bayri]((https://www.instagram.com/eness_bayrii/))
 
