@@ -32,6 +32,7 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 - **Ölcek Hesapla App**: Flutter ile geliştirdiğim ve platformlara yayınladığım ölçek/ölçü hesaplama uygulaması. [Repo](https://github.com/enesbayri/olcek-hesapla-APP)
 - **Muhasebe Otomasyonu**: Laravel kullanarak ekip ile geliştirdiğimiz muhasebe otomasyon sistemi. [Repo](https://github.com/mertozanlislas/emo-laravel9)
 - **ModelAR APP**: Flutter ile geliştirdiğim,çeşitli modellerin incelenebildiği AR lens ile çevremize yerleştirip fotoğraflayabildiğimiz 3D model uygulaması. [Repo](https://github.com/enesbayri/ModelAR-APP)
+- **KeyControlHub API**: NodeJS ile geliştirdiğim Key kontrollü api istek yönetimi olan kullanıcı ve admin yönetim panelli Api template. [Repo](https://github.com/enesbayri/KeyControlHub_NodeJS)
 - **Daha Fazlası...**: Bu ve diğer teknolojiler kullanarak geliştirdiğim diğer uygulamalar... [Repo](https://github.com/enesbayri?tab=repositories)
 
 ---
