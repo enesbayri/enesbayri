@@ -23,7 +23,7 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 ---
 
 ## 📱 Platformlardaki Aktif Uygulamalar :
-- **Google Play**: <img src="https://static.vecteezy.com/system/resources/previews/017/395/379/original/google-play-store-mobile-apps-logo-free-png.png" alt="Google Play" width="20"/> [Link](https://play.google.com/store/apps/details?id=com.ebaysoft.olcek_hesapla)
+- **Google Play**: <img src="https://static.vecteezy.com/system/resources/previews/017/395/379/original/google-play-store-mobile-apps-logo-free-png.png" alt="Google Play" width="20"/>  [ Uygulama Linki ](https://play.google.com/store/apps/details?id=com.ebaysoft.olcek_hesapla)
 
 
 
