@@ -22,6 +22,12 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 
 ---
 
+## 📱 Platformlardaki Aktif Uygulamalar :
+- **Google Play**: <img src="https://static.vecteezy.com/system/resources/previews/017/395/379/original/google-play-store-mobile-apps-logo-free-png.png" alt="Google Play" width="20"/> [Link](https://play.google.com/store/apps/details?id=com.ebaysoft.olcek_hesapla)
+
+
+
+---
 ## 🌟 Öne Çıkan Projelerim:
 - **Yakıt Asistan App**: Flutter ile geliştirdiğim ve platformlara yayınladığım araç,seyahat takip ve hesaplama araçları asistanı. [Repo](https://github.com/enesbayri/yakit-asistan-APP)
 - **QR Creator App**: Flutter ile geliştirdiğim QR oluşturucu. [Repo](https://github.com/enesbayri/QR_CREATOR-APP)
