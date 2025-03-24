@@ -6,7 +6,7 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 ---
 
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar:
-- **Mobil Geliştirme**: ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)  
+- **Mobil Geliştirme**: ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)   ![Swift](https://cdn-icons-png.flaticon.com/512/5968/5968371.png)  
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
 - **Veritabanları**: ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb) ![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat&logo=sqlite)
 - **Frontend**: ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
@@ -39,6 +39,7 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 - **Muhasebe Otomasyonu**: Laravel kullanarak ekip ile geliştirdiğimiz muhasebe otomasyon sistemi. [Repo](https://github.com/mertozanlislas/emo-laravel9)
 - **ModelAR APP**: Flutter ile geliştirdiğim,çeşitli modellerin incelenebildiği AR lens ile çevremize yerleştirip fotoğraflayabildiğimiz 3D model uygulaması. [Repo](https://github.com/enesbayri/ModelAR-APP)
 - **KeyControlHub API**: NodeJS ile geliştirdiğim Key kontrollü api istek yönetimi olan kullanıcı ve admin yönetim panelli Api template. [Repo](https://github.com/enesbayri/KeyControlHub_NodeJS)
+- **AngryBirds**: Swift ile geliştirdiğim basit AngryBirds oyunu. [Repo](https://github.com/enesbayri/angrybirds-swift)
 - **Daha Fazlası...**: Bu ve diğer teknolojiler kullanarak geliştirdiğim diğer uygulamalar... [Repo](https://github.com/enesbayri?tab=repositories)
 
 ---
