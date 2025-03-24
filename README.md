@@ -17,7 +17,7 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 ## 📱 Yayınlanan Mobil Uygulama Platformları :
 - **App Store**: <img src="https://logos-world.net/wp-content/uploads/2021/02/App-Store-Logo.png" alt="App Store" width="20"/>
 - **Google Play**: <img src="https://static.vecteezy.com/system/resources/previews/017/395/379/original/google-play-store-mobile-apps-logo-free-png.png" alt="Google Play" width="20"/>
-- **AppGallery**: <img src="https://logowik.com/content/uploads/images/t_huawei-appgallery5993.jpg" alt="AppGallery" width="20"/>
+- **AppGallery**: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Huawei_AppGallery.svg/36px-Huawei_AppGallery.svg.png" alt="AppGallery" width="20"/>
 
 
 ---
