@@ -41,6 +41,8 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 - **ModelAR APP**: Flutter ile geliştirdiğim,çeşitli modellerin incelenebildiği AR lens ile çevremize yerleştirip fotoğraflayabildiğimiz 3D model uygulaması. [Repo](https://github.com/enesbayri/ModelAR-APP)
 - **KeyControlHub API**: NodeJS ile geliştirdiğim Key kontrollü api istek yönetimi olan kullanıcı ve admin yönetim panelli Api template. [Repo](https://github.com/enesbayri/KeyControlHub_NodeJS)
 - **AngryBirds**: Swift ile geliştirdiğim basit AngryBirds oyunu. [Repo](https://github.com/enesbayri/angrybirds-swift)
+- **KennyGame**: Swift ile geliştirdiğim Kenny'yi yakala oyunu. [Repo](https://github.com/enesbayri/KennyGame-Swift)
+- **SuperHeroWidgetKIT**: Swift ile geliştirdiğim süper kahraman widget kit uygulama. [Repo](https://github.com/enesbayri/SuperHeroWidgetKit-Swift)
 - **FlappyBird**: Swift ile geliştirdiğim kişiselleştirilmiş karakterli FlappyBird oyunu. [Repo](https://github.com/enesbayri/FlappyBird-Swift)
 - **Daha Fazlası...**: Bu ve diğer teknolojiler kullanarak geliştirdiğim diğer uygulamalar... [Repo](https://github.com/enesbayri?tab=repositories)
 ---
