@@ -1,4 +1,4 @@
-# 💻 Full-Stack Yazılım Mühendisi | Flutter, Node.js & Python
+# 💻 Full-Stack Yazılım Mühendisi | Flutter, Swift, Node.js & Python
 
 **Merhaba, ben Enes!** 👋  
 Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bir deneyime sahibim. Hem frontend hem de backend projelerinde yetkinim. Aynı zamanda modern teknoloji yığınlarıyla çalışarak yenilikçi çözümler üretiyorum.
