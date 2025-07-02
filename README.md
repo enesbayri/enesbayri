@@ -45,7 +45,8 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 - **AngryBirds**: Swift ile geliştirdiğim basit AngryBirds oyunu. [Repo](https://github.com/enesbayri/angrybirds-swift)
 - **KennyGame**: Swift ile geliştirdiğim Kenny'yi yakala oyunu. [Repo](https://github.com/enesbayri/KennyGame-Swift)
 - **SuperHeroWidgetKIT**: Swift ile geliştirdiğim süper kahraman widget kit uygulama. [Repo](https://github.com/enesbayri/SuperHeroWidgetKit-Swift)
-- **FlappyBird**: Swift ile geliştirdiğim kişiselleştirilmiş karakterli FlappyBird oyunu. [Repo](https://github.com/enesbayri/FlappyBird-Swift)
+- **SkyCat**: Swift ile geliştirdiğim kişiselleştirilmiş karakterli FlappyBird mantığını içeren bir rakip oyunu. [Repo](https://github.com/enesbayri/FlappyBird-Swift)
+- **QRWorld**: Swift ile geliştirdiğim QR oluşturma uygulaması. [Repo](https://github.com/enesbayri/QRCreator-Swift)
 - **Daha Fazlası...**: Bu ve diğer teknolojiler kullanarak geliştirdiğim diğer uygulamalar... [Repo](https://github.com/enesbayri?tab=repositories)
 ---
 
