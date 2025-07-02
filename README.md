@@ -31,6 +31,7 @@ Full-Stack Yazılım Mühendisiyim. Mobil ve web geliştirme alanında geniş bi
 ---
 ## 🌟 Öne Çıkan Projelerim:
 - **Yakıt Asistan App**: Flutter ile geliştirdiğim ve platformlara yayınladığım araç,seyahat takip ve hesaplama araçları asistanı. [Repo](https://github.com/enesbayri/yakit-asistan-APP)
+- **Paylas App**: Flutter ile geliştirdiğim TUBİTAK onaylı akıllı envanter paylaşım uygulaması. [Repo](https://github.com/PAYLAS-AI/Paylas)
 - **QR Creator App**: Flutter ile geliştirdiğim QR oluşturucu. [Repo](https://github.com/enesbayri/QR_CREATOR-APP)
 - **RemoveBG App**: Flutter ile geliştirdiğim görsel arkaplan kaldırma uygulaması. [Repo](https://github.com/enesbayri/RemoveBG_app)
 - **Dices App**: Flutter ile geliştirdiğim hileli zar oyunu. [Repo](https://github.com/enesbayri/Dices-APP)
